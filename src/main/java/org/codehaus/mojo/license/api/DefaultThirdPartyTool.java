@@ -70,7 +70,7 @@ import org.codehaus.plexus.logging.Logger;
  * @author <a href="mailto:tchemit@codelutin.com">Tony Chemit</a>
  * @version $Id$
  */
-@Component( role = ThirdPartyTool.class, hint = "default" )
+//@Component( role = ThirdPartyTool.class, hint = "default" )
 public class DefaultThirdPartyTool
         extends AbstractLogEnabled
         implements ThirdPartyTool
